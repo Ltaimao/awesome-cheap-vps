@@ -18,7 +18,7 @@ providers that (a) sell real KVM virtualization, (b) have a stable track record,
 |---|---|---|---|
 | [RackNerd](https://my.racknerd.com/aff.php?aff=18737) | $21.99/yr (1 GB) | KVM, unmanaged | Maximum value, self-hosting |
 | [Hostinger](https://www.hostinger.com/?REFERRALCODE=VH6SITECOQB0) | $6.49/mo (4 GB, intro) | KVM, managed panel | Beginners, WordPress |
-| [BandwagonHost](https://bandwagonhost.com/aff.php?aff=48209&gid=1) | $49.99/yr (20 GB) | KVM, unmanaged | CN2 GIA routes to China |
+| [BandwagonHost](https://bandwagonhost.com/aff.php?aff=48209&gid=1) ([China mirror](https://bwh81.net/aff.php?aff=48209&pid=44)) | $49.99/yr (20 GB) | KVM, unmanaged | CN2 GIA routes to China |
 | [Vultr](https://www.vultr.com/?ref=9600754) | $5.00/mo (1 GB) | KVM/cloud, hourly | Developers, global reach |
 | [Contabo](https://www.tkqlhce.com/click-101469669-13484397) | $4.50/mo (4 vCPU / 8 GB) | KVM, unmanaged | Max specs-per-dollar |
 
